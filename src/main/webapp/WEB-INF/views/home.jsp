@@ -151,6 +151,25 @@ $(function (){
 			AOP-어노테이션 이용
 		</a>
 	</li>
+
+<br /><hr />
+
+		<h3>@COntroller, @Service, @Repository 어노테이션</h3>
+	<h4>Auto scan으로 자동으로 생성되는 빈</h4>
+	<li>
+		<a href="./service/myService.do" target="_blank">
+			myService 바로가기	
+		</a>
+	</li>
+	<!-- resources 디렉토리에는 html파일을 생성한 후 직접 실행할
+	 수 있다. html파일은 요청의 변화에 따라 실행결과가 바뀌는 형태가
+	 아닌 정적파일이기 때문이다. -->
+	<li>
+		<a href="./resources/lottoForm.html" target="_blank">
+			Lotto 바로가기
+		</a>
+	</li>
+	
 	
 <br /><br /><br /><hr />
 </div>
